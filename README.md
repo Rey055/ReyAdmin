@@ -1,4 +1,4 @@
-<h1>Hello, I'm Reinaldo, an aspiring <a href="https://linkedin.com/in/reinaldo vela">IT Professional</a>☺</h1>
+<h1>Hello, I'm Reinaldo, an aspiring <a href="https://www.linkedin.com/in/reinaldo-vela-70651a265/">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
