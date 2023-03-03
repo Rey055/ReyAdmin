@@ -1,1 +1,15 @@
-Hello, My Name is Reinaldo. Im a student currently studying Software Engineering. I'm trying to achive on the field experience and also trying to educate myself to learn new in demand skills in the technology sector.  Im always eager to learn and keep learning.  
+<h1>Hello, My Name is Reinaldo, an Aspiring IT Professional<h1>
+
+
+
+
+
+
+
+
+<h2> Connect  <h2>
+
+
+
+[Instagram]: www.instagram.com/reyit55
+[Linkedin]: www.linkedin.com/in/reinaldo-vela-70651a265
