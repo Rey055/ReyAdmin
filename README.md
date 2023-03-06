@@ -6,6 +6,7 @@
   
   - [osTicket: Ticket Lifecycle and management Examples](https://github.com/Rey055/osticket-TicketLifeCycleManangement)
   - [Active Directort Setup and configuration](https:/Rey055/ActiveDirectoryConfig)
+  - [Network Filesharing and Permissons](https://github.com/Rey055/NetworkFileSharing)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
