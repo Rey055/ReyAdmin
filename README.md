@@ -5,7 +5,7 @@
 - <b>IT Projects On Azure Cloud platform</b>
   
   - [osTicket: Ticket Lifecycle and management Examples](https://github.com/Rey055/osticket-TicketLifeCycleManangement)
-  - [Active Directort Setup and configuration](https:/Rey055/ActiveDirectoryConfig)
+  - [Active Directory Setup and configuration](https:/Rey055/ActiveDirectoryConfig)
   - [Network Filesharing and Permissons](https://github.com/Rey055/NetworkFileSharing)
 
 
